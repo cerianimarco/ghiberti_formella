@@ -327,7 +327,7 @@ function App() {
         <div className="max-w-4xl mx-auto text-center space-y-4">
           <div className="h-px w-32 bg-gradient-to-r from-transparent via-amber-600 to-transparent mx-auto mb-8"></div>
           <p className="text-2xl font-bold text-amber-100">Marco Ceriani</p>
-          <p className="text-stone-400">Anno scolastico 2024/2025</p>
+          <p className="text-stone-400">Anno scolastico 2025/2026</p>
           <p className="text-sm text-stone-500 mt-8">
             Approfondimento didattico sulla Formella di Lorenzo Ghiberti
           </p>
